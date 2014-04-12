@@ -1,0 +1,6 @@
+let vg_ind = 0
+while vsec < 100
+  let vg_ind = vg_ind + 2
+endwhile
+
+  
