@@ -1,0 +1,6 @@
+
+find cliente wh cd_cliente = "  266619" -> scliente
+find contrato wh cd_cliente = "  266619" -> scontrato
+if $membercount = 0
+   return
+endif
