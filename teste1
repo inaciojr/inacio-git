@@ -1,0 +1,5 @@
+
+ch prestacao wh cd_chave_con ="PAR 215  123456" let \
+  sg_loja  = "TEZ" 	\
+  cd_cliente = "  456568" \
+  nr_conbtrato = 345
